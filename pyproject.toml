@@ -2,7 +2,7 @@
 name = "deep_learning"
 version = "0.1.0"
 description = ""
-authors = ["Raoul Grouls <raoul.grouls@businessdecision.nl>"]
+authors = ["Peter Heesakkers <peter.heesakkers@student.hu.nl>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
